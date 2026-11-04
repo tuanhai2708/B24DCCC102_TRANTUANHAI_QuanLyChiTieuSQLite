@@ -1,0 +1,36 @@
+{
+  "source": "Emulator Android; adb exec-out run-as vn.edu.th411.quan_ly_chi_tieu cat databases/expense_manager.db",
+  "users": [
+    [
+      1,
+      "admin",
+      "123456"
+    ]
+  ],
+  "expenses": [
+    [
+      1,
+      "Ăn sáng",
+      30000,
+      "Ăn uống",
+      "2026-10-13",
+      null
+    ],
+    [
+      2,
+      "Đổ xăng",
+      50000,
+      "Đi lại",
+      "2026-10-12",
+      null
+    ],
+    [
+      3,
+      "Mua sách",
+      120000,
+      "Học tập",
+      "2026-10-11",
+      null
+    ]
+  ]
+}

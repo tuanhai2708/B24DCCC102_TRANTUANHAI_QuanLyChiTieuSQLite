@@ -1,0 +1,26 @@
+{
+  "action": "adb shell am force-stop",
+  "process_stopped": true,
+  "rows_after_restart": [
+    [
+      1,
+      "Ăn sáng",
+      30000
+    ],
+    [
+      2,
+      "Đổ xăng",
+      50000
+    ],
+    [
+      3,
+      "Mua sách",
+      120000
+    ],
+    [
+      4,
+      "Kiem tra luu tru",
+      10000
+    ]
+  ]
+}
