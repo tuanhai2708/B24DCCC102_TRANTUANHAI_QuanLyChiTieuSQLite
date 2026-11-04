@@ -1,3 +1,5 @@
+B24DCCC102_TRANTUANHAI_QuanLyChiTieuSQLite
+
 # Sổ chi tiêu — Flutter & SQLite
 
 Bài thực hành số 3: ứng dụng quản lý chi tiêu cá nhân, triển khai bằng Flutter. Các thành phần Java/XML trong đề được thay bằng widget, Navigator và sqflite tương ứng. Dữ liệu lưu cục bộ trong `expense_manager.db`, phiên bản 1; không dùng API, Firebase hay dữ liệu RAM làm nguồn lưu trữ.
